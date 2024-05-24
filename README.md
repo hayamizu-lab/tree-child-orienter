@@ -63,7 +63,7 @@ File Name: sample-input
 Elapsed time: 0.274124104 [sec]
 TC-Orientability: YES
 ```
-[sample-output.pdf](https://github.com/hayamizum/TC-orienter/blob/9c5f7fddd669ad156c72ac9d8e125e279eeb33bf/sample-output.pdf)
+[sample-output.pdf](sample-output.pdf)
 
 #### Notes
 + With 'Appendix/generate-binary-graphs.py' you can generate undirected binary phylogenetic networks at random.
