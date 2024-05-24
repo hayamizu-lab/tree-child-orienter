@@ -27,15 +27,13 @@ To run the program to generate random binary graphs, use:
 ```
 python generate-binary-graphs.py
 ```
-When you run the code, you will be prompted for a file name and three parameters for the output. 
+When you run the code, you will be prompted for the name of the output file and the values of the following parameters: `n` (the number of leaves), `r` (probability of occurrence of reticulation) and `k` (the number of networks to be generated).
 ```
 Filename n r k: sample-network 10 0.1 100
 ```
 
-This program has three parameters: n (the number of leaves), r (probability of occurrence of reticulation), k (the number of samples to be generated) which you can change. 
-
-According to the parameters, the program outputs k undirected networks with n leaves. The adjacency matrix of each network is saved as a csv file and a visualisation is saved as a pdf file.  
-[sample-network_1.pdf](https://github.com/hayamizum/TC-orienter/files/15212961/test2.pdf)
+According to the parameters, the program outputs k undirected networks with n leaves. The adjacency matrix of each network is saved as a CSV file and a visualisation is saved as a PDF file.  
+[sample-network.pdf](sample-network.pdf)
 
 ### Notes
 + If you want to change the location of the output files, add an absolute or relative path as shown below.  
