@@ -4,8 +4,7 @@ This repository contains the implementation of algorithms to determine whether a
 
 This repository serves as the supporting material for the paper:
 
-> **Orientability of undirected phylogenetic networks to a desired class: Practical algorithm and application to tree-child orientation**
-> _Tsuyoshi Urata, Manato Yokoyama, Momoko Hayamizu_
+> Tsuyoshi Urata, Manato Yokoyama, and Momoko Hayamizu. **Orientability of Undirected Phylogenetic Networks to a Desired Class: Practical Algorithms and Application to Tree-Child Orientation**. In _24th International Workshop on Algorithms in Bioinformatics (WABI 2024)_. Leibniz International Proceedings in Informatics (LIPIcs), Volume 312, pp. 9:1-9:17, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2024) https://doi.org/10.4230/LIPIcs.WABI.2024.9
 
 ## Repository Structure
 
